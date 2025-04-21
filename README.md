@@ -7,7 +7,7 @@ The **Excel-to-DSL Web Converter** is a web-based application developed for **De
 
 > 🛑 **Note:** The source code for this application is proprietary and cannot be made public, as it was developed exclusively for internal use by Delta Dental.
 
-## 🎯 Features
+## Features
 
 - Real-time Excel data collaboration and editing
 - Web-based interface with a user-friendly Angular frontend
